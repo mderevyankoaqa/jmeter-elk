@@ -1,0 +1,9 @@
+/build/
+/bin/
+.gradle/
+.project
+.settings/
+.classpath
+.idea
+secret-key.gpg
+gradle.properties

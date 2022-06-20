@@ -1,4 +1,7 @@
 # JMeter - ELK stack integration with cache layer (Redis)
+
+<img src="https://raw.githubusercontent.com/mderevyankoaqa/jmeter-elk/main/img/logo.jpg"  width="500">
+
 The goal of the project - share artifacts used to build integration. There are no custom plugins or extra coding that have been used.
 The stack has been successfully tested and used while real-world projects. The topic is not new, but here you can find the JMeter board and configs (fur sure for not production usage, but with useful transformations and data mapping things at the same time).
 
@@ -11,6 +14,18 @@ The stack has been successfully tested and used while real-world projects. The t
 </a>
 </details>
 </h3>
+
+<h3>
+<details>
+<summary>Like what you see?</summary>
+<br>
+   <a href="https://www.buymeacoffee.com/mvderevyanko">
+      <img alt="Coffee2" src="https://raw.githubusercontent.com/mderevyankoaqa/jmeter-elk/main/img/Coffee2.png"  width="150">
+
+</a>
+</details>
+</h3>
+
 
 # Abbreviations
 * JMeter — HTTP requests/load generator.
@@ -40,7 +55,7 @@ The simple schema:
 
 
 # The results viewing 
-Download the `JMeterBoard.ndjson` and upload it yor Kibana.Then you will be able to see the metrics like on the screen.
+Download the [JMeterBoard.ndjson](https://github.com/mderevyankoaqa/jmeter-elk/tree/main/kibana_board/JMeterBoard.ndjson) and upload it yor Kibana.Then you will be able to see the metrics like on the screen.
 * The summary
    ![](img/board1.png)
   

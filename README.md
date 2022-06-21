@@ -7,7 +7,7 @@ The stack has been successfully tested and used while real-world projects. The t
 
 <h3> 
 <details>
-<summary>Support my Ukrainian Family 
+<summary>Support my Ukrainian Family ❤️
 </summary>
  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H8L62WL5HVD32">
   <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
@@ -17,7 +17,7 @@ The stack has been successfully tested and used while real-world projects. The t
 
 <h3>
 <details>
-<summary>Like what you see?</summary>
+<summary>Like what you see? 😍</summary>
 <br>
    <a href="https://www.buymeacoffee.com/mvderevyanko">
       <img alt="Coffee2" src="https://raw.githubusercontent.com/mderevyankoaqa/jmeter-elk/main/img/Coffee2.png"  width="150">
@@ -53,6 +53,11 @@ The simple schema:
 
 ![](img/elk.png)
 
+# Artifacts
+All config files of the tools have been collected in the project `etc` folder.
+The JMeter `output.jtl` file transformation rules are described in the following [config file](https://github.com/mderevyankoaqa/jmeter-elk/blob/main/etc/logstash/conf.d/filter.conf).
+
+ ![](img/etc.png)
 
 # The results viewing 
 Download the [JMeterBoard.ndjson](https://github.com/mderevyankoaqa/jmeter-elk/tree/main/kibana_board/JMeterBoard.ndjson) and upload it yor Kibana.Then you will be able to see the metrics like on the screen.
